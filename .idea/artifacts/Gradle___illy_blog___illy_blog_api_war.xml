@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : illy_blog : illy_blog_api.war">
+    <output-path>$PROJECT_DIR$/illy_blog_api/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="illy_blog_api.war">
+      <element id="artifact" artifact-name="Gradle : illy_blog : illy_blog_api.war (exploded)" />
+    </root>
+  </artifact>
+</component>

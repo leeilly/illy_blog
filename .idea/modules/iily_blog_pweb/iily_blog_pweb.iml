@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":iily_blog_pweb" external.linked.project.path="$MODULE_DIR$/../../../iily_blog_pweb" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="illy_blog" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../iily_blog_pweb">
+      <excludeFolder url="file://$MODULE_DIR$/../../../iily_blog_pweb/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../iily_blog_pweb/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../iily_blog_pweb/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

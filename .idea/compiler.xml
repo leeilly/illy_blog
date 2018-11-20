@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="iily_blog_pweb_main" target="1.8" />
+      <module name="iily_blog_pweb_test" target="1.8" />
+      <module name="illy_blog_api_main" target="1.8" />
+      <module name="illy_blog_api_test" target="1.8" />
+      <module name="illy_blog_common_main" target="1.8" />
+      <module name="illy_blog_common_test" target="1.8" />
+      <module name="illy_blog_main" target="1.8" />
+      <module name="illy_blog_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

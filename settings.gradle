@@ -1,0 +1,5 @@
+rootProject.name = 'illy_blog'
+
+include 'illy_blog_common'
+include 'illy_blog_api'
+include 'iily_blog_pweb'

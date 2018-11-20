@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iily_blog_pweb/iily_blog_pweb.iml" filepath="$PROJECT_DIR$/.idea/modules/iily_blog_pweb/iily_blog_pweb.iml" group="iily_blog_pweb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iily_blog_pweb/iily_blog_pweb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/iily_blog_pweb/iily_blog_pweb_main.iml" group="iily_blog_pweb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iily_blog_pweb/iily_blog_pweb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/iily_blog_pweb/iily_blog_pweb_test.iml" group="iily_blog_pweb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog_api/illy_blog_api.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog_api/illy_blog_api.iml" group="illy_blog_api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog_api/illy_blog_api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog_api/illy_blog_api_main.iml" group="illy_blog_api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog_api/illy_blog_api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog_api/illy_blog_api_test.iml" group="illy_blog_api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog_common/illy_blog_common.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog_common/illy_blog_common.iml" group="illy_blog_common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog_common/illy_blog_common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog_common/illy_blog_common_main.iml" group="illy_blog_common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/illy_blog_common/illy_blog_common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/illy_blog_common/illy_blog_common_test.iml" group="illy_blog_common" />
+    </modules>
+  </component>
+</project>
